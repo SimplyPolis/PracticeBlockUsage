@@ -1,9 +1,9 @@
 # Requirments
-google-api-python-client
-google-auth
+google-api-python-client,
+google-auth,
 google-auth-oauthlib
 
-#Usage 
+# Usage 
 1. Download Python 3
 
 2. pip install the requirments 
